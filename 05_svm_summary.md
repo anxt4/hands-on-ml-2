@@ -21,7 +21,7 @@ Margin을 최대화 한다
 - Margin: 각 클래스에서 가장 가까운 관측치 사이의 거리
 - Margin은 w(기울기)로 표현가능
 
-다음과 같이 Margin은 각 기울기로 표현가능 하다. 두 클래스의 Margin을 최대화 하는 $ w^T + b+ =0 $인 hyperplane을 찾는 것이 목적.
+다음과 같이 Margin은 각 기울기로 표현가능 하다. 두 클래스의 Margin을 최대화 하는 $`w^T + b+ =0`$인 hyperplane을 찾는 것이 목적.
 
 ![geometric_margin](images/svm/margin.png)
 
